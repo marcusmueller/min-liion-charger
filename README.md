@@ -15,7 +15,7 @@ It's about 18 mm × 15 mm.
 
 ## PCB 3D Render
 
-![PCB render](min-liion-charger.png)
+![PCB render](min-liion-charger.webp)
 
 ## Schematic
 
