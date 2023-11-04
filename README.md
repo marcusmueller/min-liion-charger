@@ -4,7 +4,7 @@ Based on the TI [bq21040](https://www.ti.com/product/BQ21040).
 
 Thrown together in 15 min. No warranties.
 
-It's about 18 mm × 15 mm. 
+It's about 18.1 mm × 14.5 mm. 
 
 ## License
 
